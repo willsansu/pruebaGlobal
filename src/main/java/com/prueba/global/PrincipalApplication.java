@@ -17,6 +17,7 @@ public class PrincipalApplication extends SpringBootServletInitializer {
 	
 	public static void main(String[] args) {
 		SpringApplication.run(PrincipalApplication.class, args);
+		System.out.println("esto es un mensaje de prueba de commit");
 	}
 
 }
